@@ -1,4 +1,8 @@
 # ProblemSolving
 Codes What I Solved Algorithm Problem
 
-PR되게 해줘...
+I solved:   
+
+*BOJ*   
+  - 1008   
+  - 1152
