@@ -1,3 +1,5 @@
+/* 단어 공부 */
+
 fun main() {
     val map = mutableMapOf<Char, Int>().apply {
         readLine()!!.forEach {

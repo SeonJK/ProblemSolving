@@ -1,3 +1,5 @@
+/* A/B */
+
 package ProblemSolvings
 
 import java.util.Scanner

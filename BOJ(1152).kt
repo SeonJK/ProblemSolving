@@ -1,3 +1,5 @@
+/* 단어의 개수 */
+
 import java.io.BufferedReader
 import java.io.InputStreamReader
 import java.util.StringTokenizer
