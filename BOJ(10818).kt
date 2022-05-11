@@ -1,3 +1,5 @@
+/* 최소, 최대 */
+
 import java.util.Scanner
 
 fun main() = with(Scanner(System.`in`)) {
