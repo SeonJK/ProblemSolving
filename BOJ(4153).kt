@@ -1,3 +1,5 @@
+/* 직각삼각형 */
+
 import java.util.*
 
 fun main() = with(Scanner(System.`in`)) {
