@@ -35,17 +35,17 @@ fun main() = with(Scanner(System.`in`)) {
 //    }
 
     // 방법 4.
-//    var count = 0
-//    while(true) {
-//        if (input % 5 == 0) {
-//            print("${input / 5 + count}")
-//            break
-//        } else if (input <= 0) {
-//            print(-1)
-//            break
-//        }
-//
-//        input -= 3
-//        count++
-//    }
+    var count = 0
+    while(true) {
+        if (input % 5 == 0) {
+            print("${input / 5 + count}")
+            break
+        } else if (input <= 0) {
+            print(-1)
+            break
+        }
+
+        input -= 3
+        count++
+    }
 }
