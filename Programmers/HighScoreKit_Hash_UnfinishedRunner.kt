@@ -1,3 +1,5 @@
+/* 완주하지 못한 선수 */
+
 package Programmers
 
 fun main() {
@@ -15,6 +17,7 @@ fun solution(participant: Array<String>, completion: Array<String>): String {
     for (i in completion.indices) {
         if (p[i] != c[i]) {
             answer = p[i]
+            break
         }
 
         if (answer.isEmpty()) {
